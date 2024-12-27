@@ -12,6 +12,7 @@ server.get("/allusers", (req, res) => {
         })
 
 })
+
 server.get("/uppercaseusers", (req, res) => {
     fetch(URLApi)// by default the method is GET
         .then(async response => {
