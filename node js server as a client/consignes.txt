@@ -1,0 +1,8 @@
+- creer projet npm=> npm init --y
+- installer express et nodemon
+- rajouter script start
+==> code/dev
+
+- importer express et configurer le serveur
+- configurer une seule route: /users GET
+=> TRAITEMENT: fetch vers l autre serveur http://localhost:3000/users
